@@ -1,0 +1,19 @@
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGame.resources
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.Cache
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+c:\users\dmitriy125\documents\visual studio 2017\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
+A:\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+A:\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+A:\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojResolveAssemblyReference.cache
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGame.resources
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+A:\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
